@@ -1,0 +1,31 @@
+
+body{
+  text-align: center;
+  background: url('https://heidiatheartspace.files.wordpress.com/2013/08/writing-pages.jpg') center center no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
+#container{
+  position: absolute;
+  top: 50%;
+  left: 35%;
+}
+
+button{
+  background: rgba(33, 121, 238);
+  color: white;
+  padding: 5px 20px;
+  font-size: 20px;
+}
+
+input{
+  padding: 5px 20px;
+  font-size: 20px;
+  width: 300px;
+}
+
+p{
+  color: rgba(33, 121, 238);
+  font-size: 25px;
+  text-shadow: 2px 2px 3px rgba(0, 0, 0);
+}

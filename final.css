@@ -1,0 +1,38 @@
+body{
+  background: url('https://i.ytimg.com/vi/-FlxM_0S2lA/maxresdefault.jpg') center center no-repeat;
+  background-size: cover;
+  height: 100vh;
+  width: 100vw;
+}
+
+
+#res-container{
+  padding: 20px;
+  text-align: center;
+  position: absolute;
+  top: 40%;
+  left: 20%;
+  background: #eee;
+}
+
+p{
+  font-size: 20px;
+}
+
+span{
+  font-weight: bolder;
+  font-size: 30px;
+}
+
+a{
+  color: white;
+  text-decoration: none;
+  position: relative;
+  top: 400px;
+  text-align: center;
+  text-shadow: 2px 2px 3px black;
+  left: 50%;
+  background: rgba(33, 121, 238);
+  padding: 5px;
+  font-size: 20px;
+}
